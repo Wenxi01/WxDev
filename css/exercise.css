@@ -1,0 +1,10 @@
+p {
+    color: blue;
+}
+.green p {
+    color:green;
+}
+
+#orange {
+    color:orange;
+}
